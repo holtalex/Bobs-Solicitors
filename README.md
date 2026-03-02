@@ -1,4 +1,4 @@
-# Bob's-Solicitors
+# Bob's Solicitors
 While not built for a specific law firm, I wanted this website to look professional, but while adding in a bit of elegance and style.
 
 ## Sections
